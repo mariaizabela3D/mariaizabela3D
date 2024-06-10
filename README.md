@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there,welcome  👋
+< My name is Maria Izabela!--
+*
 
-<!--
-**mariaizabela3D/mariaizabela3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m studying technology at alura.
+- 🌱 I’m developing in the JavaScript language.
+- 👯 I use this space to organize and share my projects developed.
+- 💬 Ask me about
+- 00001096027598sp@al.educacao.sp.gov.br
+- mariaizabela3D
+- 
+![](link)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
